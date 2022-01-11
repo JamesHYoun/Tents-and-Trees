@@ -1,7 +1,12 @@
 # Tents-and-Trees Game Rules
 
 ![alt text](https://www.thoughtworthy.info/Media/Images/Member/Thumb/Tents-and-Trees-Puzzles.png)
+
 The image depicts the middle stage of the game.
+Black:       Empty
+Light-Green: Grass
+Dark-Green:  Tree
+Red:         Tent
 
 Initially, the game starts with just trees and empty (black) squares.
 The goal is to fill all empty squares with either grass or tents.
